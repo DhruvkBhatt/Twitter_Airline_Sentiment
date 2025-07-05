@@ -13,5 +13,5 @@ lets users explore the data interactively:
 Usage:
     $ streamlit run app.py
 
-Author: Your Name
+Author: Dhruv Bhatt
 Date:   2025-07-05
