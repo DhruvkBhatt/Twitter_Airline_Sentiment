@@ -21,7 +21,7 @@ Date:   2025-07-05
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
+from plotly import express as px
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
